@@ -1,2 +1,2 @@
-# login-signup-animated-button
+# login-signup
 Login and Signup button with animaion
